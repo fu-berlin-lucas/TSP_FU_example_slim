@@ -1,0 +1,222 @@
+[
+  {
+    "city": "Berlin", 
+    "lat": "52.5200", 
+    "lng": "13.4050", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Berlin", 
+    "capital": "primary", 
+    "population": "4890363", 
+    "population_proper": "3755251"
+  }, 
+  {
+    "city": "Stuttgart", 
+    "lat": "48.7775", 
+    "lng": "9.1800", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Baden-Württemberg", 
+    "capital": "admin", 
+    "population": "2787724", 
+    "population_proper": "632865"
+  }, 
+  {
+    "city": "Munich", 
+    "lat": "48.1375", 
+    "lng": "11.5750", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Bavaria", 
+    "capital": "admin", 
+    "population": "2606021", 
+    "population_proper": "1512491"
+  }, 
+  {
+    "city": "Hamburg", 
+    "lat": "53.5500", 
+    "lng": "10.0000", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Hamburg", 
+    "capital": "admin", 
+    "population": "2484800", 
+    "population_proper": "1892122"
+  }, 
+  {
+    "city": "Cologne", 
+    "lat": "50.9364", 
+    "lng": "6.9528", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "", 
+    "population": "1084831", 
+    "population_proper": "1084831"
+  }, 
+  {
+    "city": "Frankfurt", 
+    "lat": "50.1106", 
+    "lng": "8.6822", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Hesse", 
+    "capital": "minor", 
+    "population": "773068", 
+    "population_proper": "773068"
+  }, 
+  {
+    "city": "Düsseldorf", 
+    "lat": "51.2333", 
+    "lng": "6.7833", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "admin", 
+    "population": "629047", 
+    "population_proper": "629047"
+  }, 
+  {
+    "city": "Leipzig", 
+    "lat": "51.3400", 
+    "lng": "12.3750", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Saxony", 
+    "capital": "minor", 
+    "population": "616093", 
+    "population_proper": "616093"
+  }, 
+  {
+    "city": "Dortmund", 
+    "lat": "51.5139", 
+    "lng": "7.4653", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "593317", 
+    "population_proper": "593317"
+  }, 
+  {
+    "city": "Essen", 
+    "lat": "51.4508", 
+    "lng": "7.0131", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "584580", 
+    "population_proper": "584580"
+  }, 
+  {
+    "city": "Bremen", 
+    "lat": "53.0758", 
+    "lng": "8.8072", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Bremen", 
+    "capital": "admin", 
+    "population": "569396", 
+    "population_proper": "569396"
+  }, 
+  {
+    "city": "Dresden", 
+    "lat": "51.0500", 
+    "lng": "13.7400", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Saxony", 
+    "capital": "admin", 
+    "population": "563311", 
+    "population_proper": "563311"
+  }, 
+  {
+    "city": "Hannover", 
+    "lat": "52.3667", 
+    "lng": "9.7167", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Lower Saxony", 
+    "capital": "admin", 
+    "population": "545045", 
+    "population_proper": "545045"
+  }, 
+  {
+    "city": "Nuremberg", 
+    "lat": "49.4539", 
+    "lng": "11.0775", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "Bavaria", 
+    "capital": "minor", 
+    "population": "523026", 
+    "population_proper": "523026"
+  }, 
+  {
+    "city": "Duisburg", 
+    "lat": "51.4347", 
+    "lng": "6.7625", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "502211", 
+    "population_proper": "502211"
+  }, 
+  {
+    "city": "Bochum", 
+    "lat": "51.4819", 
+    "lng": "7.2158", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "365742", 
+    "population_proper": "365742"
+  }, 
+  {
+    "city": "Wuppertal", 
+    "lat": "51.2667", 
+    "lng": "7.1833", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "358876", 
+    "population_proper": "358876"
+  }, 
+  {
+    "city": "Bielefeld", 
+    "lat": "52.0211", 
+    "lng": "8.5347", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "338332", 
+    "population_proper": "338332"
+  }, 
+  {
+    "city": "Bonn", 
+    "lat": "50.7333", 
+    "lng": "7.1000", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "336465", 
+    "population_proper": "336465"
+  }, 
+  {
+    "city": "M�nster", 
+    "lat": "51.9625", 
+    "lng": "7.6256", 
+    "country": "Germany", 
+    "iso2": "DE", 
+    "admin_name": "North Rhine-Westphalia", 
+    "capital": "minor", 
+    "population": "320946", 
+    "population_proper": "320946"
+  }
+]
